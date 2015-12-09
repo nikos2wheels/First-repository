@@ -1,1 +1,1 @@
-print("Hello, world, greetings from Earth")
+print "Hello, world, greetings from Earth"

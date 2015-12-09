@@ -1,1 +1,1 @@
-Second text file
+print "Second text file"
